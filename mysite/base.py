@@ -23,12 +23,12 @@ config.read(Path(__file__).resolve().parent / 'config.ini')
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure--f-%zq-$ou%)5o4c2ox+dm_p3&fphp3=nrap3i%#c_#+n(7i$7'
+SECRET_KEY = 'ze5erf9_dxcqe^fa8f)i5y6@6vs0mt%3_k%j90u&$n)f+*lq2t'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
