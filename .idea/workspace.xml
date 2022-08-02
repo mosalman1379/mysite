@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="338abfaa-4f19-4f47-a76a-2ea552ba2540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/localhost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/production.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/production.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +141,7 @@
       <workItem from="1659167158320" duration="4794000" />
       <workItem from="1659173847255" duration="604000" />
       <workItem from="1659184734845" duration="69000" />
-      <workItem from="1659441477796" duration="781000" />
+      <workItem from="1659441477796" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="basic site using Postgresql database">
       <created>1659169575946</created>
@@ -156,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659169575946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final commit">
+      <created>1659442309409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659442309409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +178,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic site using Postgresql database" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic site using Postgresql database" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -198,10 +200,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1659109754996" />
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1659169572265">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1659442307122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1659169572265" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1659442307122" />
     <state x="363" y="169" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1658643105876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

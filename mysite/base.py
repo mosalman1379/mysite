@@ -34,6 +34,8 @@ ALLOWED_HOSTS = ['*']
 
 SITE_ID = 1
 
+STATIC_ROOT = BASE_DIR / 'static'
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
