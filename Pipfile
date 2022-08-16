@@ -9,6 +9,8 @@ django-taggit = "*"
 markdown = "*"
 psycopg2 = "*"
 configparser = "*"
+django-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
